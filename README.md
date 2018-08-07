@@ -1,3 +1,3 @@
 # gradcafe-admissions-data
 
-This is a repository of admissions data from gradcafe organized by subject.
+A repository of admissions data collected from the grad cafe.

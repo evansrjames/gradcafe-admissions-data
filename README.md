@@ -2,6 +2,8 @@
 
 A repository of admissions data collected from the grad cafe.
 
+To download one of the CSV files, after clicking "download" or "view raw" on one of the files, right click the webpage and click "Save Page As" and make sure the file being saved ends in ".csv". Only after can you then view the file in a spreadsheet program like Microsoft Excel.
+
 CSV files follow this format
 
 Institution, Subject, Degree type and admission semester, Acception/rejection, Method of communication for acceptance/rejection, Date accepted/rejected, GPA, GRE Verbal, GRE Quantitative, GRE Writing, GRE Subject, Student classification (found on Gradcafe website), Date posted, Comments
